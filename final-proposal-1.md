@@ -1,6 +1,6 @@
-# Your Project Title Here
+# My Crossy Road
 
-One-sentence summary of your project goes here; then fill out each of the following sections.
+I want to create a game which is similar to the video game Crossy Road.
 
 ## Summary
 
